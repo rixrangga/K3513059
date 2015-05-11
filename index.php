@@ -1,5 +1,8 @@
 <?php
 
+//komentar baris 1
+//komentar baris 2
+
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
