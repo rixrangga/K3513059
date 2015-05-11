@@ -1,6 +1,7 @@
 <?php
 
 //komentar baris 1
+//Tambah komentar oleh teman
 
 /*
  *---------------------------------------------------------------
